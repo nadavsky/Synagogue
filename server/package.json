@@ -1,0 +1,19 @@
+{
+  "name": "myNodejsServer",
+  "version": "0.0.1",
+   "private": true,
+  "scripts": {
+
+    },
+    "description": "my server",
+    "main": "main.js",
+    "repository":"",
+    "author": "wd",
+    "license": "BSD",
+    "dependencies": {
+        "express": "~4.8.2",
+        "cookie-parser": "~1.0.1",
+        "static-server": "1.0.1",
+        "jade": "1.6.0"
+    }
+}
