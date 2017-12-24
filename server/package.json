@@ -1,13 +1,11 @@
 {
-  "name": "myNodejsServer",
-  "version": "0.0.1",
-   "private": true,
-  "scripts": {
-
-    },
+    "name": "myNodejsServer",
+    "version": "0.0.1",
+    "private": true,
+    "scripts": {},
     "description": "my server",
     "main": "main.js",
-    "repository":"",
+    "repository": "",
     "author": "wd",
     "license": "BSD",
     "dependencies": {
