@@ -4,7 +4,7 @@ var fs = require("fs");
 var path = require("path");
 var serveStatic = require('static-server');
 app.use(express.static(__dirname + '/public'));
-app.get('/login', require('./login.html'));
+//app.get('/login', require('./login.html'));
 
 
 
